@@ -8,16 +8,16 @@ const Viewall = () => {
             
             
             {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
-            {"name":"divya","no":2,"price":3000},
+            {"name":"kavya","no":78,"price":3098},
+            {"name":"diya","no":99,"price":5000},
+            {"name":"miya","no":7,"price":9000},
+            {"name":"siya","no":8,"price":9000},
+            {"name":"riya","no":9,"price":7000},
+            {"name":"kiya","no":1,"price":6000},
+            {"name":"laya","no":3,"price":5000},
+            {"name":"naya","no":4,"price":3000},
+            {"name":"raya","no":5,"price":2000},
+            {"name":"hara","no":6,"price":1000},
 
 
 
